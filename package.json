@@ -1,0 +1,12 @@
+{
+  "name": "kms-keycheck-cli",
+  "version": "1.0.0",
+  "description": "Checks specified regions for the aliases of a KMS key",
+  "private": true,
+  "author": "Nick Dresselhaus",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.4.3",
+    "yargs": "^4.7.1"
+  }
+}
