@@ -7,6 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.4.3",
+    "uuid": "^3.0.0",
     "yargs": "^4.7.1"
   }
 }
